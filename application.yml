@@ -1,2 +1,5 @@
 name: iswear
 password: 123456
+spring:
+  application: 
+    name: yayaya
